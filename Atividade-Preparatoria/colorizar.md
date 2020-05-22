@@ -17,6 +17,8 @@ O grande ditador (1940) e Luzes da Cidade (1931).
 
 - [Fonte da imagem](https://www.huffpostbrasil.com/2015/08/06/17-filmes-em-preto-e-branco-para-quem-nao-gosta-de-filmes-em-pre_n_7948596.html#gallery/5c340596e4b0979fd89d2b47/1)
 
+***
+
 2) **La Dolce Vita (1960)**
 
 ![Alt text](https://github.com/Mario-RJunior/DataScience-Awari/blob/master/Atividade-Preparatoria/Imagens/Image04.jpg?raw=true "La Dolce Vita") 
@@ -28,6 +30,8 @@ O grande ditador (1940) e Luzes da Cidade (1931).
 Uma série de histórias após uma semana na vida de um jornalista paparazzo que vive em Roma.
 
 - [Fonte da imagem](https://br.pinterest.com/pin/329396160224850811/)
+
+***
 
 3) **Cidadão Kane (1941)**
 
@@ -42,6 +46,8 @@ Charles Foster Kane, personagem inspirado na vida do excêntrico William Randolp
 
 - [Fonte da imagem](https://www.huffpostbrasil.com/2015/08/06/17-filmes-em-preto-e-branco-para-quem-nao-gosta-de-filmes-em-pre_n_7948596.html#gallery/5c340596e4b0979fd89d2b47/2)
 
+***
+
 4) **Ed Wood (1994)**
 
 ![Alt text](https://github.com/Mario-RJunior/DataScience-Awari/blob/master/Atividade-Preparatoria/Imagens/Image03.jpeg?raw=true "Ed Wood") 
@@ -54,6 +60,8 @@ Dirigido por Tim Burton e estrelado por Johnny Depp, o filme lançado em 1994 co
 autor do "pior filme de todos os tempos": Plan 9 from Outer Space (1959).
 
 - [Fonte da imagem](https://www.huffpostbrasil.com/2015/08/06/17-filmes-em-preto-e-branco-para-quem-nao-gosta-de-filmes-em-pre_n_7948596.html#gallery/5c340596e4b0979fd89d2b47/13)
+
+***
 
 5) **Vidas Secas (1963)**
 
@@ -68,6 +76,8 @@ acompanha a jornada de uma família de retirantes em busca de sobrevivência no 
 
 - [Fonte da imagem](https://www.huffpostbrasil.com/2015/08/06/17-filmes-em-preto-e-branco-para-quem-nao-gosta-de-filmes-em-pre_n_7948596.html#gallery/5c340596e4b0979fd89d2b47/9)
 
+***
+
 6) **Os Sete Samurais (1954)**
 
 ![Alt text](https://github.com/Mario-RJunior/DataScience-Awari/blob/master/Atividade-Preparatoria/Imagens/Image05.jpeg?raw=true "Os Sete Samurais") 
@@ -80,6 +90,8 @@ acompanha a jornada de uma família de retirantes em busca de sobrevivência no 
 grupo de sete antigos samurais em troca de comida. A direção do filme é de Akira Kurosawa.
 
 - [Fonte da imagem](https://www.huffpostbrasil.com/2015/08/06/17-filmes-em-preto-e-branco-para-quem-nao-gosta-de-filmes-em-pre_n_7948596.html#gallery/5c340596e4b0979fd89d2b47/5)
+
+***
 
 7) **Quanto Mais Quente Melhor (1959)**
 
